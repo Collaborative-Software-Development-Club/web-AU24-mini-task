@@ -1,4 +1,6 @@
-# My version of the mini-tasks
+# AU24 web team mini-tasks
+
+These are mine (the project lead)'s version of both of the mini-tasks.
 
 ## front-end
 
@@ -17,3 +19,5 @@ Folder structure (not necessarily the best for larger projects):
 I'm not very experienced with SpringBoot, but I tried to follow the conventions that I found. But it works.
 
 All the code that matters is in Book, BookService, BookController.
+
+# Other solutions
